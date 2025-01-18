@@ -1,0 +1,6 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home4/webdecod/docs.devsbuddy.com/
+    - rm -rf /home4/webdecod/docs.devsbuddy.com/flutter-fusion/assets/
+    - /bin/cp -R .vitepress/flutter-fusion $DEPLOYPATH
