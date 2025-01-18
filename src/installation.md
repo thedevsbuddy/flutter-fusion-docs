@@ -1,6 +1,6 @@
 # Installation
 
-Coming Soon
+Coming Soon!
 
 <!-- Installation and setup of this the package is as easy as you setup other packages.
 
