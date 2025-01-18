@@ -1,11 +1,11 @@
-name: Deploy Tailwind CLI Docs
+name: Deploy Flutter Fusion Docs
 on:
   push:
     branches:
       - main
 jobs:
   web-deploy:
-    name: Deploy Tailwind CLI Docs
+    name: Deploy Flutter Fusion Docs
     runs-on: ubuntu-latest
     steps:
       - name: 👨‍💻 Get the latest code
