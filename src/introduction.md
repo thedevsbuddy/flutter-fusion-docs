@@ -6,7 +6,7 @@ title: The ultimate way to start your flutter app development
 
 Coming Soon
 
-<!-- <figure><img class="banner" src="/assets/Tailwind-banner.svg" alt="Tailwind CLI"><figcaption>Flutter fusion</figcaption></figure> -->
+<figure><img class="banner" src="/assets/flutter-fusion-banner.png" alt="Flutter Fusion"><figcaption>Flutter Fusion</figcaption></figure>
 
 <!-- A Modular Flutter project starter kit with [MVCs](#mvcs) pattern, to start your app development with ease.
 
